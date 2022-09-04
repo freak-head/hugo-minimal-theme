@@ -31,18 +31,18 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
+  - icon: file-pdf
+    icon_pack: fas
+    label: View Resume
+    link: uploads/resume.pdf
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: https://www.instagram.com/adorable.lad_here/
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---

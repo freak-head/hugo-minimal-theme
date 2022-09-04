@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: ABUL FARIS A
 name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
@@ -15,7 +15,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: ABUL FARIS A
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:contact@abulfaris.in'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy

@@ -1,7 +1,6 @@
 ---
 # Display name
 title: ABUL FARIS A
-name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
